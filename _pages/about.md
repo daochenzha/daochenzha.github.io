@@ -73,7 +73,7 @@ Presented in <b> WWW 2020 </b>
 
 <h1> Publications </h1>
 
-<a href="https://scholar.google.com/citations?user=RXp2tEwAAAAJ&hl=en"> [Google Schorlar] </a>
+<a href="https://scholar.google.com/citations?user=jK0NgMcAAAAJ&hl=en&oi=ao"> [Google Schorlar] </a>
 <br>
 <b> * Equal contribution </b>
 
