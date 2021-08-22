@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a fourth-year PhD student from the Department of Computer Science at Rice University, working with Dr. [Xia (Ben) Hu](https://cs.rice.edu/~xh37/). Before joining Rice, I was a PhD student at Texas A&M University, working with Dr. Xia (Ben) Hu. I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I am now a Research Intern at Facebook, working on automated machine learning systems. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
+Howdy! I am a fourth-year PhD student from the Department of Computer Science at Rice University, working with Dr. [Xia (Ben) Hu](https://cs.rice.edu/~xh37/). Before joining Rice, I was a PhD student at Texas A&M University, working with Dr. Xia (Ben) Hu. I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I was a Research Intern at Facebook, working on automated machine learning systems, in Summer 2021. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
 
 My research mainly focuses on machine learning and data mining. In particular, I am interested in Automated Machine Learning (AutoML) and Reinforcement Learning (RL). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
