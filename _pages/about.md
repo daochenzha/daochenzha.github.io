@@ -33,6 +33,7 @@ Presented in <b> IJCAI 2020 </b>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning (<b>>1,900 stars</b>) </h3>
 Presented in <b>ICML 2021</b>
 <br>
+<a href="https://github.com/kwai/DouZero" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kwai/DouZero?style=social"></a>
 <a href="https://douzero.org/">[Demo]</a>
 |
 <a href="https://arxiv.org/abs/2106.06135">[Paper]</a>
