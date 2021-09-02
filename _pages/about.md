@@ -17,7 +17,8 @@ My research mainly focuses on machine learning and data mining. In particular, I
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games</h3>
 Presented in <b> IJCAI 2020 </b>
 <br>
-<a href="https://github.com/datamllab/rlcard" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/rlcard"></a>&nbsp;
+<a href="https://github.com/datamllab/rlcard" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/rlcard"></a>
+<a href="https://github.com/datamllab/rlcard" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/rlcard"></a>&nbsp;
 <a href="http://rlcard.org/">[Website]</a>
 |
 <a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
