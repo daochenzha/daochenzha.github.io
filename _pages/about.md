@@ -35,7 +35,8 @@ Presented in <b> IJCAI 2020 </b>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning </h3>
 Presented in <b>ICML 2021</b>
 <br>
-<a href="https://github.com/kwai/DouZero" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kwai/DouZero"></a>&nbsp;
+<a href="https://github.com/kwai/DouZero" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kwai/DouZero"></a>
+<a href="https://github.com/kwai/DouZero" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/kwai/DouZero"></a>&nbsp;
 <a href="https://douzero.org/">[Demo]</a>
 |
 <a href="https://arxiv.org/abs/2106.06135">[Paper]</a>
@@ -46,7 +47,8 @@ Presented in <b>ICML 2021</b>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System (<b>Newly Released</b>) </h3>
 Preprint
 <br>
-<a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/autovideo"></a>&nbsp;
+<a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/autovideo"></a>
+<a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/autovideo"></a>&nbsp;
 <a href="https://arxiv.org/abs/2108.04212">[Paper]</a>
 |
 <a href="https://github.com/datamllab/autovideo">[Code]</a>
@@ -55,7 +57,8 @@ Preprint
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System</h3>
 Presented in <b>AAAI 2021</b>
 <br>
-<a href="https://github.com/datamllab/tods" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/tods"></a>&nbsp;
+<a href="https://github.com/datamllab/tods" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/tods"></a>
+<a href="https://github.com/datamllab/tods" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/tods"></a>&nbsp;
 <a href="https://tods-doc.github.io/">[Website]</a>
 |
 <a href="https://arxiv.org/pdf/2009.09822.pdf">[Paper]</a>
@@ -68,7 +71,8 @@ Presented in <b>AAAI 2021</b>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> PyODDS: An End-to-end Outlier Detection System</h3>
 Presented in <b> WWW 2020 </b>
 <br>
-<a href="https://github.com/datamllab/pyodds" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/pyodds"></a>&nbsp;
+<a href="https://github.com/datamllab/pyodds" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/pyodds"></a>
+<a href="https://github.com/datamllab/pyodds" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/pyodds"></a>&nbsp;
 <a href="http://pyodds.com/">[Website]</a>
 |
 <a href="http://dczha.com/files/pyodds-an-end.pdf">[Paper]</a>
