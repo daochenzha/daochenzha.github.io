@@ -2,7 +2,7 @@
 title: "Towards Similarity-Aware Time-Series Classification"
 collection: publications
 permalink: /publication/2022-04-28-towards-similarity-aware
-date: 2020-02-28
+date: 2022-04-28
 info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Kaixiong Zhou, Xia Hu
 <br>
 <b>SDM 2022</b>, SIAM International Conference on Data Mining
