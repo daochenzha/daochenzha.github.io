@@ -2,7 +2,7 @@
 title: "AutoVideo: An Automated Video Action Recognition System"
 collection: publications
 permalink: /publication/2022-07-23-autovideo-an-automated
-date: 2020-07-13
+date: 2022-07-23
 info: '<b>Daochen Zha*</b>, Zaid Pervaiz Bhat*, Yi-Wei Chen*, Yicheng Wang*, Sirui Ding*, Jiaben Chen*, Kwei-Herng Lai*, Mohammad Qazim Bhat*, Anmoll Kumar Jain, Alfredo Costilla Reyes, Na Zou, Xia Hu
 <br>
 <b>IJCAI 2022</b>, International Joint Conference on Artificial Intelligence, demo track

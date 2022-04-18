@@ -47,7 +47,7 @@ Presented in <b>ICML 2021</b>
 <a href="https://github.com/kwai/DouZero">[Code]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/autovideo/main/docs/autovideo_logo.png" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System (<b>Newly Released</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System) </h3>
 To be presented in <b>IJCAI 2022</b>
 <br>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/autovideo"></a>
