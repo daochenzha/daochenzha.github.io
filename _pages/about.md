@@ -13,7 +13,7 @@ Howdy! I am a fourth-year PhD student from the Department of Computer Science at
 My research mainly focuses on machine learning and data mining. In particular, I am interested in Automated Machine Learning (AutoML) and Reinforcement Learning (RL). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
 <h1> Service </h1>
-Program Committee Member: [KDD 2022](https://kdd.org/kdd2022/), [ICML 2022](https://icml.cc/Conferences/2022), [ICLR 2022](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI 2022](https://ijcai-22.org/), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [NeurIPS 2021](https://nips.cc/Conferences/2021), [NeurIPS 2021 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML2021](https://sites.google.com/view/RL4RealLife), [OOD@KDD2021](https://oddworkshop.github.io/).
+Program Committee Member: [NeurIPS 2022](https://nips.cc/Conferences/2022), [KDD 2022](https://kdd.org/kdd2022/), [ICML 2022](https://icml.cc/Conferences/2022), [ICLR 2022](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI 2022](https://ijcai-22.org/), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [NeurIPS 2021](https://nips.cc/Conferences/2021), [NeurIPS 2021 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML2021](https://sites.google.com/view/RL4RealLife), [OOD@KDD2021](https://oddworkshop.github.io/).
 
 <h1> Open-Source Projects </h1>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
@@ -48,7 +48,7 @@ Presented in <b>ICML 2021</b>
 
 <img src="https://raw.githubusercontent.com/datamllab/autovideo/main/docs/autovideo_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System (<b>Newly Released</b>) </h3>
-Preprint
+To be presented in <b>IJCAI 2022</b>
 <br>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/autovideo"></a>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/autovideo"></a>&nbsp;
