@@ -48,7 +48,7 @@ Presented in <b>ICML 2021</b>
 
 <img src="https://raw.githubusercontent.com/datamllab/autovideo/main/docs/autovideo_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System) </h3>
-To be presented in <b>IJCAI 2022</b>
+Presented in <b>IJCAI 2022</b>
 <br>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/autovideo"></a>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/autovideo"></a>&nbsp;
@@ -71,8 +71,8 @@ Presented in <b>AAAI 2021</b>
 <a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/BED_main/main/figure/BED_logo.png" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> BED: A Real-Time Object Detection System for Edge Devices (<b>Newly Released</b>) </h3>
-Preprint
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> BED: A Real-Time Object Detection System for Edge Devices </h3>
+To be presented in <b> CIKM 2022 </b>
 <br>
 <a href="https://github.com/datamllab/BED_main" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/BED_main"></a>
 <a href="https://github.com/datamllab/BED_main" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/BED_main"></a>&nbsp;
