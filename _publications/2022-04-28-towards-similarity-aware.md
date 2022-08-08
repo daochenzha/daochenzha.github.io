@@ -9,6 +9,8 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Kaixiong Zhou, Xia Hu
 <br>
 <a href="https://arxiv.org/abs/2201.01413">[PDF]</a>
 |
+<a href="https://daochenzha.github.io/files/slide-towards-similarity-aware.pdf">[Slide]</a>
+|
 <a href="https://github.com/daochenzha/SimTSC">[Code]</a>'
 
 ---
