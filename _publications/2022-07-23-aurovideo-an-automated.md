@@ -7,7 +7,9 @@ info: '<b>Daochen Zha*</b>, Zaid Pervaiz Bhat*, Yi-Wei Chen*, Yicheng Wang*, Sir
 <br>
 <b>IJCAI 2022</b>, International Joint Conference on Artificial Intelligence, demo track
 <br>
-<a href="https://arxiv.org/abs/2108.04212">[PDF]</a>
+<a href="https://www.ijcai.org/proceedings/2022/862">[PDF]</a>
 |
-<a href="https://github.com/datamllab/autovideo">[Code]</a>'
+<a href="https://github.com/datamllab/autovideo">[Code]</a>
+|
+<a href="https://youtu.be/beinjbjeiuo">[Video]</a>'
 ---

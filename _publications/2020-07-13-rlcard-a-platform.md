@@ -11,5 +11,7 @@ info: '<b>Daochen Zha*</b>, Kwei-Herng Lai*, Songyi Huang∗, Yuanpu Cao, Keerth
 |
 <a href="https://github.com/datamllab/rlcard">[Code]</a>
 |
+<a href="https://douzero.org/">[Demo]</a>
+|
 <a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>'
 ---

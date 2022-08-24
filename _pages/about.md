@@ -30,7 +30,7 @@ Presented in <b> IJCAI 2020 </b>
 |
 <a href="https://github.com/datamllab/rlcard">[Code]</a>
 |
-<a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
+<a href="https://youtu.be/krK2jmSdKZc">[Video]</a>
 <br>
 <img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
@@ -45,6 +45,8 @@ Presented in <b>ICML 2021</b>
 <a href="https://arxiv.org/abs/2106.06135">[Paper]</a>
 |
 <a href="https://github.com/kwai/DouZero">[Code]</a>
+|
+<a href="https://youtu.be/inHIi8sej7Y">[Video]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/autovideo/main/docs/autovideo_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System) </h3>
@@ -52,9 +54,11 @@ Presented in <b>IJCAI 2022</b>
 <br>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/autovideo"></a>
 <a href="https://github.com/datamllab/autovideo" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/autovideo"></a>&nbsp;
-<a href="https://arxiv.org/abs/2108.04212">[Paper]</a>
+<a href="https://www.ijcai.org/proceedings/2022/862">[Paper]</a>
 |
 <a href="https://github.com/datamllab/autovideo">[Code]</a>
+|
+<a href="https://youtu.be/BEInjBjeIuo">[Video]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System</h3>
@@ -68,7 +72,7 @@ Presented in <b>AAAI 2021</b>
 |
 <a href="https://github.com/datamllab/tods">[Code]</a>
 |
-<a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
+<a href="https://youtu.be/H0bBXuDUe7s">[Video]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/BED_main/main/figure/BED_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> BED: A Real-Time Object Detection System for Edge Devices </h3>
@@ -80,7 +84,7 @@ To be presented in <b> CIKM 2022 </b>
 |
 <a href="https://github.com/datamllab/BED_main">[Code]</a>
 |
-<a href="https://www.youtube.com/watch?v=cFR1IYRFal8">[Video]</a>
+<a href="https://youtu.be/cFR1IYRFal8">[Video]</a>
 
 <img src="https://daochenzha.github.io/files/pyodds_logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> PyODDS: An End-to-end Outlier Detection System</h3>
