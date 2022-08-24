@@ -84,7 +84,7 @@ To be presented in <b> CIKM 2022 </b>
 |
 <a href="https://github.com/datamllab/BED_main">[Code]</a>
 |
-<a href="https://youtu.be/cFR1IYRFal8">[Video]</a>
+<a href="https://youtu.be/0tY31_cECCA">[Video]</a>
 
 <img src="https://daochenzha.github.io/files/pyodds_logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> PyODDS: An End-to-end Outlier Detection System</h3>
