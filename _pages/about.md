@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student from the Department of Computer Science at Rice University, working with Dr. [Xia (Ben) Hu](https://cs.rice.edu/~xh37/). I was a Research Intern at Meta in Summer 2021 and Summer 2022, working on automated machine learning and machine learning systems with [Dr. Louis Feng](https://scholar.google.com/citations?user=IcwWyQEAAAAJ&hl=en), [Dr. Yuandong Tian](https://yuandong-tian.com/), [Dr. Liang Luo](https://scholar.google.com/citations?user=RbhS2h4AAAAJ&hl=en), etc. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). 
+I am a fifth-year PhD student from the Department of Computer Science at Rice University, working with [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/). I was a Research Intern at Meta in Summer 2021 and Summer 2022, working on automated machine learning and machine learning systems with [Dr. Louis Feng](https://scholar.google.com/citations?user=IcwWyQEAAAAJ&hl=en), [Dr. Yuandong Tian](https://yuandong-tian.com/), [Dr. Liang Luo](https://scholar.google.com/citations?user=RbhS2h4AAAAJ&hl=en), etc. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and [Dr. Ji Liu](http://jiliu-ml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with [Dr. Chenliang Li](http://www.lichenliang.net/). 
 
-My research mainly focuses on machine learning and data mining. In particular, I am interested in Automated Machine Learning (AutoML) and Reinforcement Learning (RL). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
+My research mainly focuses on Reinforcement Learning (RL) and Automated Machine Learning (AutoML). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
 <h1> Service </h1>
 Organizer: [NewInML@NeurIPS2022](https://nehzux.github.io/NewInML2022NeurIPS/)
 <br>
 Session Chair: [IJCAI 2020 Demo Track](https://static.ijcai.org/ijcai-pricai-2020-schedule/technical_sessions/#demos-56)
 <br>
-Program Committee Member: [ICLR 2023](https://iclr.cc/Conferences/2023), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [CVPR 2023](https://cvpr2023.thecvf.com/), [LOG 2022](https://logconference.org/), [NeurIPS 2022](https://nips.cc/Conferences/2022), [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks), [KDD 2022](https://kdd.org/kdd2022/), [ICML 2022](https://icml.cc/Conferences/2022), [ICLR 2022](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI 2022](https://ijcai-22.org/), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [RL4RealLife@NeurIPS2022](https://sites.google.com/view/RL4RealLife), [NeurIPS 2021](https://nips.cc/Conferences/2021), [NeurIPS 2021 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML2021](https://sites.google.com/view/RL4RealLife), [OOD@KDD2021](https://oddworkshop.github.io/).
+Program Committee Member: [ICLR 2023](https://iclr.cc/Conferences/2023), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [IJCAI 2023](https://ijcai-23.org/), [CVPR 2023](https://cvpr2023.thecvf.com/), [LOG 2022](https://logconference.org/), [NeurIPS 2022](https://nips.cc/Conferences/2022), [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks), [KDD 2022](https://kdd.org/kdd2022/), [ICML 2022](https://icml.cc/Conferences/2022), [ICLR 2022](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI 2022](https://ijcai-22.org/), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [RL4RealLife@NeurIPS2022](https://sites.google.com/view/RL4RealLife), [NeurIPS 2021](https://nips.cc/Conferences/2021), [NeurIPS 2021 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML2021](https://sites.google.com/view/RL4RealLife), [OOD@KDD2021](https://oddworkshop.github.io/).
 
 <h1> Open-Source Projects </h1>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
@@ -80,7 +80,7 @@ Presented in <b>AAAI 2021</b>
 
 <img src="https://raw.githubusercontent.com/datamllab/BED_main/main/figure/BED_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> BED: A Real-Time Object Detection System for Edge Devices </h3>
-To be presented in <b> CIKM 2022 </b>
+Presented in <b> CIKM 2022 </b>
 <br>
 <a href="https://github.com/datamllab/BED_main" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/BED_main"></a>
 <a href="https://github.com/datamllab/BED_main" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/BED_main"></a>&nbsp;
