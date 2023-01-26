@@ -7,7 +7,7 @@ info: '<b>Daochen Zha*</b>, Kwei-Herng Lai*, Songyi Huang∗, Yuanpu Cao, Keerth
 <br>
 <b>IJCAI 2020</b>, International Joint Conference on Artificial Intelligence, demo track
 <br>
-<a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[PDF]</a>
+<a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
 |
 <a href="https://daochenzha.github.io/files/poster-rlcard-a-platform.pdf">[Poster]</a>
 |

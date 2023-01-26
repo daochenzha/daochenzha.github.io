@@ -7,5 +7,5 @@ info: 'Mingyang Wan, <b>Daochen Zha</b>, Ninghao Liu, Na Zou
 <br>
 <b> TKDD 2022</b>, ACM Transactions on Knowledge Discovery from Data
 <br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3551390">[PDF]</a>'
+<a href="https://dl.acm.org/doi/abs/10.1145/3551390">[Paper]</a>'
 ---

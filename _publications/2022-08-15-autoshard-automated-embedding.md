@@ -7,7 +7,7 @@ info: '<b>Daochen Zha</b>, Louis Feng, Bhargav Bhushanam, Dhruv Choudhary, Jade 
 <br>
 <b>KDD 2022</b>, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 <br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539034">[PDF]</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539034">[Paper]</a>
 |
 <a href="https://daochenzha.github.io/files/slide-autoshard-automated-embedding.pdf">[Slide]</a>
 |

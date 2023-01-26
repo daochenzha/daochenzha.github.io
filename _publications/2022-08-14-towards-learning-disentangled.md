@@ -7,5 +7,5 @@ info: 'Yuening Li, Zhengzhang Chen, <b>Daochen Zha</b>, Mengnan Du, Jingchao Ni,
 <br>
 <b>KDD 2022</b>, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 <br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539140">[PDF]</a>'
+<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539140">[Paper]</a>'
 ---

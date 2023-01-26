@@ -7,5 +7,5 @@ info: 'Kwei-Herng Lai, <b>Daochen Zha</b>, Kaixiong Zhou, and Xia Hu
 <br>
 <b>KDD 2020</b>, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 <br>
-<a href="https://arxiv.org/abs/2006.15097">[PDF]</a>'
+<a href="https://arxiv.org/abs/2006.15097">[Paper]</a>'
 ---

@@ -7,11 +7,11 @@ info: '<b>Daochen Zha*</b>, Zaid Pervaiz Bhat*, Yi-Wei Chen*, Yicheng Wang*, Sir
 <br>
 <b>IJCAI 2022</b>, International Joint Conference on Artificial Intelligence, demo track
 <br>
-<a href="https://www.ijcai.org/proceedings/2022/862">[PDF]</a>
+<a href="https://www.ijcai.org/proceedings/2022/862">[Paper]</a>
 |
 <a href="https://github.com/datamllab/autovideo">[Code]</a>
 |
-<a href="https://daochenzha.github.io/files/poster-autovideo-an-automated.pdf">[PDF]</a>
+<a href="https://daochenzha.github.io/files/poster-autovideo-an-automated.pdf">[Poster]</a>
 
 <a href="https://youtu.be/BEInjBjeIuo">[Video]</a>'
 ---

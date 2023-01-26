@@ -7,7 +7,7 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Yuanpu Cao, Songyi Huang, Ruzhe Wei, 
 <br>
 <b>AAAI-Workshop 2020</b>, AAAI-20 Workshop on Reinforcement Learning in Games
 <br>
-<a href="https://daochenzha.github.io/files/rlcard-a-toolkit.pdf">[PDF]</a>
+<a href="https://daochenzha.github.io/files/rlcard-a-toolkit.pdf">[Paper]</a>
 |
 <a href="https://daochenzha.github.io/files/poster-rlcard-a-toolkit.pdf">[Poster]</a>
 |

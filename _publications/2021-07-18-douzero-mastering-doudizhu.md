@@ -7,7 +7,7 @@ info: '<b>Daochen Zha</b>, Jingru Xie, Wenye Ma, Sheng Zhang, Xiangru Lian, Xia 
 <br>
 <b>ICML 2021</b>, International Conference on Machine Learning
 <br>
-<a href="https://arxiv.org/abs/2106.06135">[PDF]</a>
+<a href="https://arxiv.org/abs/2106.06135">[Paper]</a>
 |
 <a href="https://github.com/kwai/DouZero">[Code]</a>
 |

@@ -7,5 +7,5 @@ info: 'Kaixiong Zhou, Qingquan Song, Xiao Huang, <b>Daochen Zha</b>, Na Zou, and
 <br>
 <b>IJCAI 2020</b>, International Joint Conference on Artificial Intelligence
 <br>
-<a href="https://daochenzha.github.io/files/multi-channel-graph.pdf">[PDF]</a>'
+<a href="https://daochenzha.github.io/files/multi-channel-graph.pdf">[Paper]</a>'
 ---

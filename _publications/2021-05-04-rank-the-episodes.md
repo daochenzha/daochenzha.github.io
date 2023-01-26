@@ -7,7 +7,7 @@ info: '<b>Daochen Zha</b>, Wenye Ma, Lei Yuan, Xia Hu, Ji Liu
 <br>
 <b>ICLR 2021</b>, International Conference on Learning Representations
 <br>
-<a href="https://daochenzha.github.io/files/rank-the-episodes.pdf">[PDF]</a>
+<a href="https://daochenzha.github.io/files/rank-the-episodes.pdf">[Paper]</a>
 |
 <a href="https://daochenzha.github.io/files/slide-rank-the-episodes.pdf">[Slide]</a>
 |

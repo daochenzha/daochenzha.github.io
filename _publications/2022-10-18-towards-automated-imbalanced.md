@@ -7,7 +7,7 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Qiaoyu Tan, Sirui Ding, Na Zou, Xia H
 <br>
 <b>CIKM 2022</b>, ACM International Conference on Information and Knowledge Management
 <br>
-<a href="https://arxiv.org/pdf/2208.12433.pdf">[PDF]</a>
+<a href="https://arxiv.org/pdf/2208.12433.pdf">[Paper]</a>
 |
 <a href="https://daochenzha.github.io/files/slide-towards-automated-imbalanced.pdf">[Slide]</a>
 |

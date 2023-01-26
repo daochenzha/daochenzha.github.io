@@ -7,7 +7,7 @@ info: 'Kaixiong Zhou, Xiao Huang, Yuening Li, <b>Daochen Zha</b>, Rui Chen, and 
 <br>
 <b>NeurIPS 2020</b>, Neural Information Processing Systems
 <br>
-<a href="https://papers.nips.cc/paper/2020/file/33dd6dba1d56e826aac1cbf23cdcca87-Paper.pdf">[PDF]</a>
+<a href="https://papers.nips.cc/paper/2020/file/33dd6dba1d56e826aac1cbf23cdcca87-Paper.pdf">[Paper]</a>
 |
 <a href="https://github.com/Kaixiong-Zhou/DGN">[Code]</a>'
 ---

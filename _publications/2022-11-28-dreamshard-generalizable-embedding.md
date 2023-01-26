@@ -7,7 +7,7 @@ info: '<b>Daochen Zha</b>, Louis Feng, Qiaoyu Tan, Zirui Liu, Kwei-Herng Lai, Bh
 <br>
 <b>NeurIPS 2022</b>, Neural Information Processing Systems
 <br>
-<a href="https://arxiv.org/abs/2210.02023">[PDF]</a>
+<a href="https://arxiv.org/abs/2210.02023">[Paper]</a>
 |
 <a href="https://daochenzha.github.io/files/slide-dreamshard-generalizable-embedding.pdf">[Slide]</a>
 |

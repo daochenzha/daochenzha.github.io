@@ -7,7 +7,7 @@ info: 'Yuening Li, <b>Daochen Zha</b>, Praveen Venugopal, Na Zou, and Xia Hu
 <br>
 <b>WWW 2020</b> Web Conference, demo track
 <br>
-<a href="https://daochenzha.github.io/files/pyodds-an-end.pdf">[PDF]</a>
+<a href="https://daochenzha.github.io/files/pyodds-an-end.pdf">[Paper]</a>
 |
 <a href="https://github.com/datamllab/pyodds">[Code]</a>'
 ---

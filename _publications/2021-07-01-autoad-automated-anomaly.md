@@ -7,5 +7,5 @@ info: 'Yuening Li, Zhengzhang Chen, <b>Daochen Zha</b>, Kaixiong Zhou, Haifeng J
 <br>
 <b>TNNLS 2021</b>, IEEE Transactions on Neural Networks and Learning Systems
 <br>
-<a href="https://arxiv.org/abs/2006.11321">[PDF]</a>'
+<a href="https://arxiv.org/abs/2006.11321">[Paper]</a>'
 ---
