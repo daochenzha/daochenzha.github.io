@@ -11,5 +11,7 @@ info: '<b>Daochen Zha*</b>, Zaid Pervaiz Bhat*, Yi-Wei Chen*, Yicheng Wang*, Sir
 |
 <a href="https://github.com/datamllab/autovideo">[Code]</a>
 |
+<a href="https://daochenzha.github.io/files/poster-autovideo-an-automated.pdf">[PDF]</a>
+
 <a href="https://youtu.be/BEInjBjeIuo">[Video]</a>'
 ---

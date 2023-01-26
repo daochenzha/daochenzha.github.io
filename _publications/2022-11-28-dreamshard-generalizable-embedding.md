@@ -9,5 +9,9 @@ info: '<b>Daochen Zha</b>, Louis Feng, Qiaoyu Tan, Zirui Liu, Kwei-Herng Lai, Bh
 <br>
 <a href="https://arxiv.org/abs/2210.02023">[PDF]</a>
 |
+<a href="https://daochenzha.github.io/files/slide-dreamshard-generalizable-embedding.pdf">[Slide]</a>
+|
+<a href="https://daochenzha.github.io/files/poster-dreamshard-generalizable-embedding.pdf">[Poster]</a>
+|
 <a href="https://github.com/daochenzha/dreamshard">[Code]</a>'
 ---

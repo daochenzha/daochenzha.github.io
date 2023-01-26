@@ -11,6 +11,8 @@ info: '<b>Daochen Zha</b>, Wenye Ma, Lei Yuan, Xia Hu, Ji Liu
 |
 <a href="https://daochenzha.github.io/files/slide-rank-the-episodes.pdf">[Slide]</a>
 |
+<a href="https://daochenzha.github.io/files/poster-rank-the-episodes.pdf">[Poster]</a>
+|
 <a href="https://github.com/daochenzha/rapid">[Code]</a>
 '
 ---

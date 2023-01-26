@@ -11,5 +11,7 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Qiaoyu Tan, Sirui Ding, Na Zou, Xia H
 |
 <a href="https://daochenzha.github.io/files/slide-towards-automated-imbalanced.pdf">[Slide]</a>
 |
+<a href="https://daochenzha.github.io/files/poster-towards-automated-imbalanced.pdf">[Poster]</a>
+|
 <a href="https://github.com/daochenzha/autosmote">[Code]</a>'
 ---

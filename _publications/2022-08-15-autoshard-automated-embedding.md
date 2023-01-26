@@ -11,5 +11,7 @@ info: '<b>Daochen Zha</b>, Louis Feng, Bhargav Bhushanam, Dhruv Choudhary, Jade 
 |
 <a href="https://daochenzha.github.io/files/slide-autoshard-automated-embedding.pdf">[Slide]</a>
 |
+<a href="https://daochenzha.github.io/files/poster-autoshard-automated-embedding.pdf">[Poster]</a>
+|
 <a href="https://github.com/daochenzha/autoshard">[Code]</a>'
 ---

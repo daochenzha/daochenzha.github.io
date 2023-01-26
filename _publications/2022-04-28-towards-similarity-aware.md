@@ -11,6 +11,8 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Kaixiong Zhou, Xia Hu
 |
 <a href="https://daochenzha.github.io/files/slide-towards-similarity-aware.pdf">[Slide]</a>
 |
+<a href="https://daochenzha.github.io/files/poster-towards-similarity-aware.pdf">[Poster]</a>
+|
 <a href="https://github.com/daochenzha/SimTSC">[Code]</a>'
 
 ---
