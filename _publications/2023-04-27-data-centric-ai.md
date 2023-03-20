@@ -1,7 +1,7 @@
 ---
 title: "Data-centric AI: Perspectives and Challenges"
 collection: publications
-permalink: /publication/2022-04-28-data-centric-ai
+permalink: /publication/2023-04-28-data-centric-ai
 date: 2023-04-27
 info: '<b>Daochen Zha</b>, Zaid Pervaiz Bhat, Kwei-Herng Lai, Fan Yang, Xia Hu
 <br>
