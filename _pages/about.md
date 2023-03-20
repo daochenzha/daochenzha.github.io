@@ -10,7 +10,10 @@ redirect_from:
 
 I am a fifth-year PhD student from the Department of Computer Science at Rice University, working with [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/). I was a Research Intern at Meta in Summer 2021 and Summer 2022, working on reinforcement learning and machine learning systems with [Dr. Louis Feng](https://scholar.google.com/citations?user=IcwWyQEAAAAJ&hl=en), [Dr. Yuandong Tian](https://yuandong-tian.com/), [Dr. Liang Luo](https://scholar.google.com/citations?user=RbhS2h4AAAAJ&hl=en), etc. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and [Dr. Ji Liu](http://jiliu-ml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with [Dr. Chenliang Li](http://www.lichenliang.net/). 
 
-My research mainly focuses on Reinforcement Learning (RL) and Automated Machine Learning (AutoML). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
+My research mainly focuses on Reinforcement Learning (RL) and Data Mining. I am also interested in many related topics, such as Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
+
+📢News: Are you interested in data-centric AI? Please check out our newly released [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+
 
 <h1> Service </h1>
 Organizer: [NewInML@NeurIPS2022](https://nehzux.github.io/NewInML2022NeurIPS/)
