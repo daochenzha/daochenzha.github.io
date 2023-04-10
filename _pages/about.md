@@ -10,17 +10,17 @@ redirect_from:
 
 I am a fifth-year PhD student from the Department of Computer Science at Rice University, working with [Dr. Xia (Ben) Hu](https://cs.rice.edu/~xh37/). I was a Research Intern at Meta in Summer 2021 and Summer 2022, working on reinforcement learning and machine learning systems with [Dr. Louis Feng](https://scholar.google.com/citations?user=IcwWyQEAAAAJ&hl=en), [Dr. Yuandong Tian](https://yuandong-tian.com/), [Dr. Liang Luo](https://scholar.google.com/citations?user=RbhS2h4AAAAJ&hl=en), etc. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and [Dr. Ji Liu](http://jiliu-ml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with [Dr. Chenliang Li](http://www.lichenliang.net/). 
 
-My research mainly focuses on Reinforcement Learning (RL) and Data Mining. I am also interested in many related topics, such as Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
+My research mainly focuses on Data Mining and Reinforcement Learning (RL). I am also interested in many more specific topics, such as Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
 📢News: Are you interested in data-centric AI? Please check out our newly released [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
 
 <h1> Service </h1>
-Organizer: [NewInML@NeurIPS2022](https://nehzux.github.io/NewInML2022NeurIPS/)
+Organizer: [NewInML@NeurIPS'22](https://nehzux.github.io/NewInML2022NeurIPS/)
 <br>
-Session Chair: [IJCAI 2020 Demo Track](https://static.ijcai.org/ijcai-pricai-2020-schedule/technical_sessions/#demos-56)
+Session Chair: [IJCAI'20 Demo Track](https://static.ijcai.org/ijcai-pricai-2020-schedule/technical_sessions/#demos-56)
 <br>
-Program Committee Member: [KDD 2023](https://kdd.org/kdd2023/), [ICLR 2023](https://iclr.cc/Conferences/2023), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [IJCAI 2023](https://ijcai-23.org/), [CVPR 2023](https://cvpr2023.thecvf.com/), [LOG 2022](https://logconference.org/), [ECMLPKDD 2023](https://2023.ecmlpkdd.org/), [NeurIPS 2022](https://nips.cc/Conferences/2022), [NeurIPS 2022 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks), [KDD 2022](https://kdd.org/kdd2022/), [ICML 2022](https://icml.cc/Conferences/2022), [ICLR 2022](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI 2022](https://ijcai-22.org/), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [RL4RealLife@NeurIPS2022](https://sites.google.com/view/RL4RealLife), [NeurIPS 2021](https://nips.cc/Conferences/2021), [NeurIPS 2021 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML2021](https://sites.google.com/view/RL4RealLife), [OOD@KDD2021](https://oddworkshop.github.io/).
+Program Committee Member: [KDD'23](https://kdd.org/kdd2023/), [NeurIPS'23](https://neurips.cc/Conferences/2023), [ICLR'23](https://iclr.cc/Conferences/2023), [AAAI'23](https://aaai.org/Conferences/AAAI-23/), [IJCAI'23](https://ijcai-23.org/), [CVPR'23](https://cvpr2023.thecvf.com/), [LOG'22](https://logconference.org/), [ECMLPKDD'23](https://2023.ecmlpkdd.org/), [NeurIPS'22](https://nips.cc/Conferences/2022), [NeurIPS'22 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks), [KDD'22](https://kdd.org/kdd2022/), [ICML'22](https://icml.cc/Conferences/2022), [ICLR'22](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI'22](https://ijcai-22.org/), [AAAI'22](https://aaai.org/Conferences/AAAI-22/), [RL4RealLife@NeurIPS'22](https://sites.google.com/view/RL4RealLife), [NeurIPS'21](https://nips.cc/Conferences/2021), [NeurIPS'21 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML'21](https://sites.google.com/view/RL4RealLife), [OOD@KDD'21](https://oddworkshop.github.io/).
 
 <h1> Open-Source Projects </h1>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
