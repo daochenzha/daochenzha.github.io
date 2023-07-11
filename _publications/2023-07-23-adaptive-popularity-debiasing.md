@@ -7,5 +7,5 @@ info: 'Huachi Zhou, Hao Chen, Junnan Dong, <b>Daochen Zha</b>, Chuang Zhou and X
 <br>
 <b>SIGIR 2023</b>, ACM SIGIR Conference on Research and Development in Information Retrieval
 <br>
-<a href=https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_SIGIR2023.pdf">[Paper]</a>'
+<a href="https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_SIGIR2023.pdf">[Paper]</a>'
 ---
