@@ -102,7 +102,6 @@ Presented in <b> WWW 2020 </b>
 <img src="https://raw.githubusercontent.com/OpenGSL/OpenGSL/main/docs/source/img/opengsl.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> OpenGSL: A Comprehensive Benchmark for Graph Structure Learning</h3>
 <font color="red">Newly released. Please star.</font>
-<br>
 <a href="https://github.com/OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenGSL/OpenGSL"></a>
 <a href="OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OpenGSL/OpenGSL"></a>&nbsp;
 <a href="https://opengsl.readthedocs.io/">[Website]</a>
