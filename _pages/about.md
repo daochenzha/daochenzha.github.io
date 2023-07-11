@@ -61,7 +61,7 @@ Presented in <b>IJCAI 2022</b>
 |
 <a href="https://youtu.be/BEInjBjeIuo">[Video]</a>
 
-<img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/source/tods_logo.png" width="200">
+<img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/source/img/tods_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System</h3>
 Presented in <b>AAAI 2021</b>
 <br>
