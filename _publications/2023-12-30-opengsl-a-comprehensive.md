@@ -1,5 +1,5 @@
 ---
-title: "Data-centric Artificial Intelligence: A Survey"
+title: "OpenGSL: A Comprehensive Benchmark for Graph Structure Learning"
 collection: publications
 permalink: /publication/2023-12-30-opengsl-a-comprehensive
 date: 2023-12-30
