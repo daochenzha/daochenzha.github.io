@@ -15,12 +15,6 @@ My research mainly focuses on Data Mining and Reinforcement Learning (RL). I am 
 📢News: Are you interested in data-centric AI? Please check out our newly released [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
 
-<h1> Service </h1>
-Organizer: [NewInML@NeurIPS'22](https://nehzux.github.io/NewInML2022NeurIPS/)
-<br>
-Session Chair: [IJCAI'20 Demo Track](https://static.ijcai.org/ijcai-pricai-2020-schedule/technical_sessions/#demos-56)
-<br>
-Program Committee Member: [CIKM'23 Long, Short, and Demo Tracks](https://uobevents.eventsair.com/cikm2023/), [KDD'23 Research and ADS Tracks](https://kdd.org/kdd2023/), [NeurIPS'23](https://neurips.cc/Conferences/2023), [NeurIPS'23 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks), [ICLR'23](https://iclr.cc/Conferences/2023), [AAAI'23](https://aaai.org/Conferences/AAAI-23/), [IJCAI'23](https://ijcai-23.org/), [CVPR'23](https://cvpr2023.thecvf.com/), [ECMLPKDD'23](https://2023.ecmlpkdd.org/), [Interactive Learning with Implicit Human Feedback@ICML'23](https://interactive-learning-implicit-feedback.github.io/), [LOG'22](https://logconference.org/), [NeurIPS'22](https://nips.cc/Conferences/2022), [NeurIPS'22 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks), [KDD'22](https://kdd.org/kdd2022/), [ICML'22](https://icml.cc/Conferences/2022), [ICLR'22](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI'22](https://ijcai-22.org/), [AAAI'22](https://aaai.org/Conferences/AAAI-22/), [RL4RealLife@NeurIPS'22](https://sites.google.com/view/RL4RealLife), [NeurIPS'21](https://nips.cc/Conferences/2021), [NeurIPS'21 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML'21](https://sites.google.com/view/RL4RealLife), [OOD@KDD'21](https://oddworkshop.github.io/).
 
 <h1> Open-Source Projects </h1>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
@@ -105,6 +99,19 @@ Presented in <b> WWW 2020 </b>
 |
 <a href="https://github.com/datamllab/pyodds">[Code]</a>
 
+<img src="https://raw.githubusercontent.com/OpenGSL/OpenGSL/main/docs/source/img/opengsl.jpg" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> OpenGSL: A Comprehensive Benchmark for Graph Structure Learning</h3>
+<font color="red">Newly released. Please star.</font>
+<br>
+<a href="https://github.com/OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenGSL/OpenGSL"></a>
+<a href="OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OpenGSL/OpenGSL"></a>&nbsp;
+<a href="https://opengsl.readthedocs.io/">[Website]</a>
+|
+<a href="https://arxiv.org/abs/2306.10280">[Paper]</a>
+|
+<a href="https://github.com/OpenGSL/OpenGSL">[Code]</a>
+
+
 
 <h1> Publications </h1>
 
@@ -124,4 +131,15 @@ Presented in <b> WWW 2020 </b>
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h1> Service </h1>
+Organizer: [NewInML@NeurIPS'22](https://nehzux.github.io/NewInML2022NeurIPS/)
+<br>
+Session Chair: [IJCAI'20 Demo Track](https://static.ijcai.org/ijcai-pricai-2020-schedule/technical_sessions/#demos-56)
+<br>
+Program Committee Member: [CIKM'23 Long, Short, and Demo Tracks](https://uobevents.eventsair.com/cikm2023/), [KDD'23 Research and ADS Tracks](https://kdd.org/kdd2023/), [NeurIPS'23](https://neurips.cc/Conferences/2023), [NeurIPS'23 Datasets and Benchmarks Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks), [ICLR'23](https://iclr.cc/Conferences/2023), [AAAI'23](https://aaai.org/Conferences/AAAI-23/), [IJCAI'23](https://ijcai-23.org/), [CVPR'23](https://cvpr2023.thecvf.com/), [ECMLPKDD'23](https://2023.ecmlpkdd.org/), [Interactive Learning with Implicit Human Feedback@ICML'23](https://interactive-learning-implicit-feedback.github.io/), [LOG'22](https://logconference.org/), [NeurIPS'22](https://nips.cc/Conferences/2022), [NeurIPS'22 Datasets and Benchmarks Track](https://nips.cc/Conferences/2022/CallForDatasetsBenchmarks), [KDD'22](https://kdd.org/kdd2022/), [ICML'22](https://icml.cc/Conferences/2022), [ICLR'22](https://iclr.cc/Conferences/2022), [WSDM 2022](https://www.wsdm-conference.org/2022/), [IJCAI'22](https://ijcai-22.org/), [AAAI'22](https://aaai.org/Conferences/AAAI-22/), [RL4RealLife@NeurIPS'22](https://sites.google.com/view/RL4RealLife), [NeurIPS'21](https://nips.cc/Conferences/2021), [NeurIPS'21 Datasets and Benchmarks Track](https://nips.cc/Conferences/2021/CallForDatasetsBenchmarks), [RL4RealLife@ICML'21](https://sites.google.com/view/RL4RealLife), [OOD@KDD'21](https://oddworkshop.github.io/).
+
+Journal editorial board: [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data), [American Journal of Information Science and Technology](https://www.sciencepublishinggroup.com/journal/index?journalid=526)
+
+Journal reviewer: [Transactions on Information Systems](https://dl.acm.org/journal/tois), [Machine Learning](https://www.springer.com/journal/10994), [Journal of Big Data](https://journalofbigdata.springeropen.com/), [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics), [International Journal of Data Science and Analytics](https://www.springer.com/journal/41060), [Jordanian Journal of Computers and Information Technology](https://www.jjcit.org/), [IEEE/CAA Journal of Automatica Sinica](https://www.ieee-jas.net/), [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/), [Journal of Supercomputing](https://www.springer.com/journal/11227)
 
