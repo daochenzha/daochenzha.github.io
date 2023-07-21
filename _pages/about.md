@@ -103,13 +103,24 @@ Presented in <b> WWW 2020 </b>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> OpenGSL: A Comprehensive Benchmark for Graph Structure Learning</h3>
 <font color="red">Newly released. Please star.</font>
 <a href="https://github.com/OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenGSL/OpenGSL"></a>
-<a href="OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OpenGSL/OpenGSL"></a>&nbsp;
+<a href="https://github.com/OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OpenGSL/OpenGSL"></a>&nbsp;
 <a href="https://opengsl.readthedocs.io/">[Website]</a>
 |
 <a href="https://arxiv.org/abs/2306.10280">[Paper]</a>
 |
 <a href="https://github.com/OpenGSL/OpenGSL">[Code]</a>
 
+<img src="https://raw.githubusercontent.com/AI4Finance-Foundation/FinGPT/master/figs/FinGPT_framework.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> FinGPT: Democratizing Internet-scale Data for Financial Large Language Models
+</h3>
+<font color="red">Newly released. Please star.</font>
+<a href="https://github.com/AI4Finance-Foundation/FinGPT" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT"></a>
+<a href="https://github.com/AI4Finance-Foundation/FinGPT" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/AI4Finance-Foundation/FinGPT"></a>&nbsp;
+<a href="https://ai4finance-foundation.github.io/FinNLP/">[Website]</a>
+|
+<a href="https://arxiv.org/abs/2307.10485">[Paper]</a>
+|
+<a href="https://github.com/AI4Finance-Foundation/FinGPT">[Code]</a>
 
 
 <h1> Publications </h1>
