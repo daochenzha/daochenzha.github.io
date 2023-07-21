@@ -3,7 +3,7 @@ title: "FinGPT: Democratizing Internet-scale Data for Financial Large Language M
 collection: publications
 permalink: /publication/2023-12-02-fingpt-democratizing-internet
 date: 2023-12-02
-info: 'Xiao-Yang Liu, Guoxuan Wang, <br>Daochen Zha</br>
+info: 'Xiao-Yang Liu, Guoxuan Wang, <b>Daochen Zha</b>
 <br>
 <b>Arxiv 2023</b>, Preprint
 <br>
