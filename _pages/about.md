@@ -122,6 +122,17 @@ Presented in <b> WWW 2020 </b>
 |
 <a href="https://github.com/AI4Finance-Foundation/FinGPT">[Code]</a>
 
+<h1> Tutorials </h1>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;">Data-centric AI: Techniques and Future Perspectives</h3>
+Presented in <b> KDD 2023 </b> &nbps;
+<a href="https://dcaitutorial.github.io/">[Website]</a>
+|
+<a href="https://dcaitutorial.github.io/files/data-centric_AI_KDD2023.pdf">[Slide]</a>
+|
+<a href="http://youtu.be/6WjHpFeOgQ0">[Video]</a>
+|
+<a href="https://dl.acm.org/doi/10.1145/3580305.3599553">[Paper]</a>
+
 
 <h1> Publications </h1>
 
