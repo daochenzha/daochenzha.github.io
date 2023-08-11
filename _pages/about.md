@@ -124,7 +124,7 @@ Presented in <b> WWW 2020 </b>
 
 <h1> Tutorials </h1>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;">Data-centric AI: Techniques and Future Perspectives</h3>
-Presented in <b> KDD 2023 </b> &nbps;
+Presented in <b> KDD 2023 </b>&nbsp;
 <a href="https://dcaitutorial.github.io/">[Website]</a>
 |
 <a href="https://dcaitutorial.github.io/files/data-centric_AI_KDD2023.pdf">[Slide]</a>
