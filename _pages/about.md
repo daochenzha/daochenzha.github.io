@@ -99,6 +99,18 @@ Presented in <b> WWW 2020 </b>
 |
 <a href="https://github.com/datamllab/pyodds">[Code]</a>
 
+<img src="https://raw.githubusercontent.com/ynchuang/ad2kg/main/fig/logo.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research</h3>
+To be presented in <b> CIKM 2023 </b>
+<br>
+<a href="https://github.com/ynchuang/ad2kg" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ynchuang/ad2kg"></a>
+<a href="https://github.com/ynchuang/ad2kg" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/ynchuang/ad2kg"></a>&nbsp;
+<a href="http://www.discoverpath.top/">[Demo]</a>
+|
+<a href="https://youtu.be/xcDzBl7jp-s">[Video]</a>
+|
+<a href="https://github.com/ynchuang/ad2kg">[Code]</a>
+
 <img src="https://raw.githubusercontent.com/OpenGSL/OpenGSL/main/docs/source/img/opengsl.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> OpenGSL: A Comprehensive Benchmark for Graph Structure Learning</h3>
 <font color="red">Newly released. Please star.</font>
