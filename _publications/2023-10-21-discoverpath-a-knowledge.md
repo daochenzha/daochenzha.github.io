@@ -7,7 +7,7 @@ info: 'Yu-Neng Chuang, Guanchu Wang, Chia-Yuan Chang, Kwei-Herng Lai, <b>Daochen
 <br>
 <b>CIKM 2023</b>, ACM International Conference on Information and Knowledge Management, demo track
 <br>
-<a href="https://github.com/ynchuang/ad2kg">[Code]</a>
+<a href="https://github.com/ynchuang/DiscoverPath">[Code]</a>
 |
 <a href="http://www.discoverpath.top/">[Demo]</a>
 |
