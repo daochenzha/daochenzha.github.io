@@ -109,6 +109,8 @@ To be presented in <b> CIKM 2023 </b>
 |
 <a href="https://youtu.be/xcDzBl7jp-s">[Video]</a>
 |
+<a href="https://arxiv.org/abs/2309.01808">[Paper]</a>
+|
 <a href="https://github.com/ynchuang/DiscoverPath">[Code]</a>
 
 <img src="https://raw.githubusercontent.com/OpenGSL/OpenGSL/main/docs/source/img/opengsl.jpg" width="200">
