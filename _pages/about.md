@@ -139,7 +139,7 @@ Presented in <b> NeurIPS 2023 </b>
 <img src="https://raw.githubusercontent.com/AI4Finance-Foundation/FinRL-Meta/master/figs/FinRL-Meta-Data_layer_v2.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> FinRL-Meta: A Metaverse of Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning
 </h3>
-Presented in <b> NeurIPS 2023 </b>
+Presented in <b> ACM ICAIF 2023 </b>
 <a href="https://github.com/AI4Finance-Foundation/FinRL-Meta" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Meta"></a>
 <a href="https://github.com/AI4Finance-Foundation/FinRL-Meta" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/AI4Finance-Foundation/FinRL-Meta"></a>&nbsp;
 <a href="https://finrl.readthedocs.io/en/latest/finrl_meta/background.html">[Website]</a>
