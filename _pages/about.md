@@ -101,7 +101,7 @@ Presented in <b> WWW 2020 </b>
 
 <img src="https://raw.githubusercontent.com/ynchuang/DiscoverPath/main/fig/logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research</h3>
-To be presented in <b> CIKM 2023 </b>
+Presented in <b> CIKM 2023 </b>
 <br>
 <a href="https://github.com/ynchuang/DiscoverPath" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ynchuang/DiscoverPath"></a>
 <a href="https://github.com/ynchuang/DiscoverPath" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/ynchuang/DiscoverPath"></a>&nbsp;
@@ -115,7 +115,7 @@ To be presented in <b> CIKM 2023 </b>
 
 <img src="https://raw.githubusercontent.com/OpenGSL/OpenGSL/main/docs/source/img/opengsl.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> OpenGSL: A Comprehensive Benchmark for Graph Structure Learning</h3>
-To be presented in <b> NeurIPS 2023 </b>
+Presented in <b> NeurIPS 2023 </b>
 <a href="https://github.com/OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenGSL/OpenGSL"></a>
 <a href="https://github.com/OpenGSL/OpenGSL" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OpenGSL/OpenGSL"></a>&nbsp;
 <a href="https://opengsl.readthedocs.io/">[Website]</a>
@@ -127,7 +127,7 @@ To be presented in <b> NeurIPS 2023 </b>
 <img src="https://raw.githubusercontent.com/AI4Finance-Foundation/FinGPT/master/figs/FinGPT_framework.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> FinGPT: Democratizing Internet-scale Data for Financial Large Language Models
 </h3>
-<font color="red">Newly released. Please star.</font>
+Presented in <b> NeurIPS 2023 </b>
 <a href="https://github.com/AI4Finance-Foundation/FinGPT" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT"></a>
 <a href="https://github.com/AI4Finance-Foundation/FinGPT" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/AI4Finance-Foundation/FinGPT"></a>&nbsp;
 <a href="https://ai4finance-foundation.github.io/FinNLP/">[Website]</a>
@@ -135,6 +135,20 @@ To be presented in <b> NeurIPS 2023 </b>
 <a href="https://arxiv.org/abs/2307.10485">[Paper]</a>
 |
 <a href="https://github.com/AI4Finance-Foundation/FinGPT">[Code]</a>
+
+<img src="https://raw.githubusercontent.com/AI4Finance-Foundation/FinRL-Meta/master/figs/FinRL-Meta-Data_layer_v2.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> FinRL-Meta: A Metaverse of Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning
+</h3>
+Presented in <b> NeurIPS 2023 </b>
+<a href="https://github.com/AI4Finance-Foundation/FinRL-Meta" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Meta"></a>
+<a href="https://github.com/AI4Finance-Foundation/FinRL-Meta" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/AI4Finance-Foundation/FinRL-Meta"></a>&nbsp;
+<a href="https://finrl.readthedocs.io/en/latest/finrl_meta/background.html">[Website]</a>
+|
+<a href="https://arxiv.org/abs/2304.13174">[Paper]</a>
+|
+<a href="https://github.com/AI4Finance-Foundation/FinRL-Meta">[Code]</a>
+|
+<a href="https://finrl-contest.github.io/">[FinRL Contest]</a>
 
 <h1> Tutorials </h1>
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;">Data-centric AI: Techniques and Future Perspectives</h3>

@@ -2,7 +2,7 @@
 title: "Dynamic Datasets and Market Environments for Financial Reinforcement Learning"
 collection: publications
 permalink: /publication/2024-01-01-dynamic-datasets-and
-date: 2023-12-31
+date: 2024-01-01
 info: 'Xiao-Yang Liu, Ziyi Xia, Hongyang Yang, Jiechao Gao, <b>Daochen Zha</b>, Ming Zhu, Christina Dan Wang, Zhaoran Wang, Jian Guo
 <br>
 Machine Learning Journal
