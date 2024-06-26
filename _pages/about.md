@@ -22,13 +22,12 @@ My research mainly focuses on Data Mining and Reinforcement Learning (RL), with 
 
 <h1> Open-Source Projects </h1>
 <img src="https://raw.githubusercontent.com/daochenzha/ltsm/main/imgs/ltsm_model.png" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> About
-Understanding Different Design Choices in Training Large Time Series Models</h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> Understanding Different Design Choices in Training Large Time Series Models</h3>
 <font color="red">Newly released. Please star!</font>
-<br>
 <a href="https://github.com/daochenzha/ltsm" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/daochenzha/ltsm"></a>
 <a href="https://github.com/daochenzha/ltsm" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/daochenzha/ltsm"></a>&nbsp;
 <a href="https://arxiv.org/pdf/2406.14045">[Paper]</a>
+<br>
 <br>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games</h3>
