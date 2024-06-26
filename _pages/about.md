@@ -12,11 +12,24 @@ I am a Machine Learning Engineer at Airbnb. I received my PhD degree from the De
 
 My research mainly focuses on Data Mining and Reinforcement Learning (RL), with interests in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
+:loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)!
+
+📢News: Do you want to know how to train large models for time series data? Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)!
+
 📢News: Are you interested in data-centric AI? Please check out our newly released [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
 
 
 <h1> Open-Source Projects </h1>
+<img src="https://raw.githubusercontent.com/daochenzha/ltsm/main/imgs/ltsm_model.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> About
+Understanding Different Design Choices in Training Large Time Series Models</h3>
+<font color="red">Newly released. Please star!</font>
+<br>
+<a href="https://github.com/daochenzha/ltsm" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/daochenzha/ltsm"></a>
+<a href="https://github.com/daochenzha/ltsm" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/daochenzha/ltsm"></a>&nbsp;
+<a href="https://arxiv.org/pdf/2406.14045">[Paper]</a>
+<br>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games</h3>
 Presented in <b> IJCAI 2020 </b>
@@ -194,5 +207,5 @@ Program Committee Member: [AAAI'25](https://aaai.org/conference/aaai/aaai-25/), 
 
 Journal editorial board: [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data), [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence), [American Journal of Information Science and Technology](https://www.sciencepublishinggroup.com/journal/index?journalid=526)
 
-Journal reviewer: [Transactions on Information Systems](https://dl.acm.org/journal/tois), [Machine Learning](https://www.springer.com/journal/10994), [Transactions on Artificial Intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair), [Journal of Big Data](https://journalofbigdata.springeropen.com/), [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics), [International Journal of Data Science and Analytics](https://www.springer.com/journal/41060), [Jordanian Journal of Computers and Information Technology](https://www.jjcit.org/), [IEEE/CAA Journal of Automatica Sinica](https://www.ieee-jas.net/), [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/), [Journal of Supercomputing](https://www.springer.com/journal/11227), [Journal of Computer Science and Technology](https://www.springer.com/journal/11390), [Multimedia Tools and Applications](https://www.springer.com/journal/11042), [International Journal of Machine Learning and Cybernetics](https://www.springer.com/journal/13042), [Journal of Experimental & Theoretical Artificial Intelligence](https://www.tandfonline.com/toc/teta20/current)
+Journal reviewer: [ACM Computing Surveys](https://dl.acm.org/journal/csur), [Transactions on Information Systems](https://dl.acm.org/journal/tois), [Machine Learning](https://www.springer.com/journal/10994), [Transactions on Artificial Intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair), [Journal of Big Data](https://journalofbigdata.springeropen.com/), [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics), [International Journal of Data Science and Analytics](https://www.springer.com/journal/41060), [Jordanian Journal of Computers and Information Technology](https://www.jjcit.org/), [IEEE/CAA Journal of Automatica Sinica](https://www.ieee-jas.net/), [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/), [Journal of Supercomputing](https://www.springer.com/journal/11227), [Journal of Computer Science and Technology](https://www.springer.com/journal/11390), [Multimedia Tools and Applications](https://www.springer.com/journal/11042), [International Journal of Machine Learning and Cybernetics](https://www.springer.com/journal/13042), [Journal of Experimental & Theoretical Artificial Intelligence](https://www.tandfonline.com/toc/teta20/current)
 
