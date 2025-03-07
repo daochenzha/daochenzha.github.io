@@ -7,7 +7,7 @@ info: 'Shaochen Zhong, Yifan Lu, Lize Shao, Bhargav Bhushanam, Xiaocong Du, Yixi
 <br>
 <b>ICLR 2025</b>, International Conference on Learning Representations
 <br>
-<font color="red">Best Demo Paper Award</font>
+<font color="red">Spotlight</font>
 <br>
 <a href="https://openreview.net/forum?id=m9wG6ai2Xk">[Paper]</a>'
 ---
