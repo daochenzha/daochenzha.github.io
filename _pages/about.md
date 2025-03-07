@@ -12,7 +12,7 @@ I am a Machine Learning Engineer at Airbnb. I received my PhD degree from the De
 
 My research mainly focuses on Data Mining and Reinforcement Learning (RL), with interests in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
-:loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)!
+📢News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)!
 
 📢News: Are you interested in data-centric AI? Please check out our newly released [data-centric AI survey](https://arxiv.org/abs/2303.10158), accepted by ACM Computing Surveys, and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
